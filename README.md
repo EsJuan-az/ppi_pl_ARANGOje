@@ -3,6 +3,10 @@
 >Una plataforma de comercio electrónico es esencial para cualquier empresa que desee vender sus productos en línea.
 [Javier Gutiérrez Newsletter](https://javiergutierrez.trade/los-5-proyectos-de-backend-mas-interesantes-para-anadir-a-tu-portafolio/)
 
+<p align="center">
+<img src="https://static.wikia.nocookie.net/supercpps/images/a/a1/Action_Dance_Light_Blue.gif/revision/latest/scale-to-width-down/250?cb=20170709182020&path-prefix=es" width="150px"></img>
+</p>
+
 Es por esto que a fin de enriquecer mi portafolio freelancer como desarrollador fullstack, optaré por éste desarrollo para la empresa boutique local [D Cuero](https://www.instagram.com/dcuero.boutique/) a fin de ampliar el alcance de ésta empresa y facilitar su proceso de ventas.
 
 ## 🤓¿Qué es un Ecommerce Platform?
@@ -70,6 +74,9 @@ A lo largo de éste desarrollo se pretende:
   </tbody>
 </table>
 
+## 🐾Planeación step by step.
+Visitar ***[TODO.md](TODO.md)***.
+
 ## 🏵️Inspiraciones de Diseño
 <p align="center">
 <a href="https://www.freepik.com/free-psd/fashion-store-landing-page-template_10352782.htm#query=ecommerce%20website%20mockup&position=57&from_view=keyword&track=ais&uuid=a473cb28-cc06-483e-968a-24969294d861"><img src="https://img.freepik.com/free-psd/fashion-store-landing-page-template_23-2148693433.jpg?w=740&t=st=1710173985~exp=1710174585~hmac=9229fe1d4c118bf5176524f248aed48521df4f637ea08516e0118ff45bd22d98" width="600px"/></a>
@@ -81,4 +88,11 @@ A lo largo de éste desarrollo se pretende:
 
 ## 🚀 Acerca de mí
 Soy - en definitiva - una persona que ama el conocimiento y cree en todo el futuro que es posible edificar con él. Estudiante de tercer semestre en la Universidad Nacional de Colombia; dedico mi tiempo libre al aprendizaje de nuevas tecnologías y el desarrollo de diversos proyectos a partir de éstas.
+- ***Nombre:*** Juan Esteban Arango Zapata.
+- ***Edad:*** 18 años.
+- ***Ubicación:*** Copacabana, Antioquia.
+- ***Email:*** [juarangoz@unal.edu.co](mailto:juarangoz@unal.edu.co).
+- ***LinkedIn:*** [Juan E. Arango Z](https://www.linkedin.com/in/juan-e-arango-z-7617792ab).
+- ***Github:*** [EsJuan-az](https://github.com/EsJuan-az).
+
 
