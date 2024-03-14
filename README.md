@@ -1,19 +1,27 @@
 
 # ✨Bienvenidos a mi viaje de Freelancer de Full Stack Dev.
 
+## 💬 Table of contents:
+- [🚀 Acerca de mí.](##-acerca-de-mí)
+- [⚔️ Objetivos.](#%EF%B8%8Fobjetivo)
+- [🎁 Skillset.](#-skillset)
+- [📽️ Proyectos.](##%EF%B8%8Fproyectos)
+
 ## 🚀 Acerca de mí
 Soy - en definitiva - una persona que ama el conocimiento y cree en todo el futuro que es posible edificar con él. Estudiante de tercer semestre en la Universidad Nacional de Colombia; dedico mi tiempo libre al aprendizaje de nuevas tecnologías y el desarrollo de diversos proyectos a partir de éstas.
 - ***Nombre:*** Juan Esteban Arango Zapata.
 - ***Edad:*** 18 años.
 - ***Ubicación:*** Copacabana, Antioquia.
-- ***Contacto:***
+- ***Redes:***
 
 <p align="center">
 <a href="https://www.linkedin.com/in/juan-e-arango-z-7617792ab"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="40"/></a>
 <a href="https://github.com/EsJuan-az"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40"/></a>
 <a href="mailto:juarangoz@unal.edu.co"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="40"/></a>
+<a href="https://stackoverflow.com/users/23618356/juan-esteban-arango-zapata"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" width="50"/></a>
+<a href="https://www.fiverr.com/juan_es_05?up_rollout=true"><img src="https://freelogopng.com/images/all_img/1656739457fiverr-transparent-logo.png" width="40"/></a>
+<a href="https://www.freelancer.com.co/u/juarangozx?sb=t"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/freelancer_logo_icon_171122.png" width="40"/></a>
 </p>
-
 He tenido la oportunidad de aprender mucho en mi camino, de tal manera que he ahondado bastante en temas como lo es el Desarrollo Web Full Stack - tanto Front-end como Back-end y ETLs (para el tratamiento de datos) y no pretendo dejar de hacerlo nunca.
 
 
