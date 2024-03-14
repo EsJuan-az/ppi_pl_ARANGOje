@@ -2,10 +2,10 @@
 # ✨Bienvenidos a mi viaje de Freelancer de Full Stack Dev.
 
 ## 💬 Table of contents:
-- [🚀 Acerca de mí.](##-acerca-de-mí)
+- [🚀 Acerca de mí.](#-acerca-de-mí)
 - [⚔️ Objetivos.](#%EF%B8%8Fobjetivo)
 - [🎁 Skillset.](#-skillset)
-- [📽️ Proyectos.](##%EF%B8%8Fproyectos)
+- [📽️ Proyectos.](#%EF%B8%8Fproyectos)
 
 ## 🚀 Acerca de mí
 Soy - en definitiva - una persona que ama el conocimiento y cree en todo el futuro que es posible edificar con él. Estudiante de tercer semestre en la Universidad Nacional de Colombia; dedico mi tiempo libre al aprendizaje de nuevas tecnologías y el desarrollo de diversos proyectos a partir de éstas.
